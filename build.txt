@@ -1,0 +1,3 @@
+displayName = OpSword
+author = tricked
+version = 0.1
